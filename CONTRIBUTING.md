@@ -1,36 +1,17 @@
 # Contributing to AI Prompt Hub
 
-Thank you for your interest in contributing! AI Prompt Hub is a community-driven project dedicated to curating high-quality prompts for AI models.
+We welcome your contributions! Please follow these guidelines to help us keep the repo organized and high quality.
 
 ## How to Contribute
 
-1. **Fork the repository** and create your branch from `main`.
-2. **Add new prompts** to the appropriate category inside the `prompts/` folder.
-   - Each prompt should be a Markdown file with:
-     - **Description**
-     - **Input Example**
-     - **Output Example**
-3. **Add real input/output samples** for your prompt in the `samples/` folder.
-4. **Open a Pull Request** with a clear description of your changes.
+- **Suggest a new prompt:** Add a markdown file under the appropriate category in `/prompts` and include input/output samples in `/samples`.
+- **Improve an existing prompt:** Submit a pull request with your improvements and explain your changes.
+- **Report issues:** Use the issue templates under `.github/ISSUE_TEMPLATE/` to suggest new prompts or improvements.
 
-## Prompt Guidelines
+## Guidelines
 
-- Keep prompts clear, concise, and practical.
-- Include at least one input and output sample.
-- Organize prompts by purpose (text generation, coding, business, etc).
-- Avoid duplicates; search existing prompts before submitting.
-- If improving an existing prompt, explain the enhancement.
+- Prompts should be clear, concise, and useful for everyday AI tasks.
+- Input/output samples must be realistic and demonstrate practical use.
+- Organize prompts by category for easy browsing.
 
-## Issue Templates
-
-- Use the `/ISSUE_TEMPLATE/` for suggesting new prompt categories or improvements.
-
-## Code of Conduct
-
-Please be respectful and inclusive. See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details.
-
-## License
-
-By contributing, you agree your work will be released under the MIT License.
-
-Happy prompting!
+Thank you for helping build a valuable resource for the AI community!
